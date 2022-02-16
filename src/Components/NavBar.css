@@ -1,0 +1,8 @@
+.NavBar {
+    border: 1px solid blue;
+    grid-area: NavBar;
+    display: flex;
+    flex-direction: column;
+    justify-content: baseline;
+  }
+  
